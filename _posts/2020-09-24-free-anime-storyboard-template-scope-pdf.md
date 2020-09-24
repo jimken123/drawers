@@ -7,7 +7,7 @@ last_modified_at: ''
 categories:
 - Templates
 ---
-<a href="https://gum.co/ghibli-storyboard_En_pdf_scope" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_Free_PDF_Japanese_Anime_storyboard_template_2.39x1_Avenir-Book_A4-vertical-2.png"></a>
+<a href="https://gum.co/ghibli-storyboard_En_pdf_scope" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_Free_PDF_Anime_storyboard_template_2.39x1_Avenir-Book_A4-vertical-2.png"></a>
 <figcaption>A preview of the storyboard template double-page (this is the second page)</figcaption>
 
 {% include gumroad-overlay.html id="Ghibli_En_idml_scope" %}

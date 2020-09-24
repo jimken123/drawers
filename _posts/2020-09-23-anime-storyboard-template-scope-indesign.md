@@ -7,7 +7,7 @@ last_modified_at: ''
 categories:
 - Templates
 ---
-<a href="https://gum.co/Ghibli_En_idml_scope" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_InDesign_Japanese_Anime_storyboard_template_2.39x1_Avenir-Book_A4-vertical_overview.png"></a>
+<a href="https://gum.co/Ghibli_En_idml_scope" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_InDesign_Anime_storyboard_template_2.39x1_Avenir-Book_A4-vertical_overview.png"></a>
 <figcaption>A preview of the InDesign storyboard template pages</figcaption>
 
 {% include gumroad-overlay.html id="Ghibli_En_idml_scope" %}
