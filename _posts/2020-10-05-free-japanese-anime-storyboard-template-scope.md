@@ -19,8 +19,8 @@ Here is a free anime storyboard template in PDF format on DIN A4 vertical (portr
 
 **Boxes:**
 
-The first column **カット** indicates cuts. Use it to number your shots—you can have several pictures per shot.
-The second column is **画面**, which stands for the screen. That’s where you draw or place your pictures.
+- The first column **カット** indicates cuts. Use it to number your shots—you can have several pictures per shot.
+- The second column is **画面**, which stands for the screen. That’s where you draw or place your pictures.
 - **内容** stands for content, use this space for your notes (dialogue, action, etc.)
 - The last column, **秒**, is for annotating the duration of your shots in seconds.
 
