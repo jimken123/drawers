@@ -3,7 +3,7 @@ layout: post
 title: Grote Markt
 description: Storyboard frame, Grote Markt, Brussel
 date: '2020-10-06 09:24:48 +0100'
-last_modified_at:
+last_modified_at: 2020-10-07
 categories:
 - Storyboards
 - Advertising
