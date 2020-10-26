@@ -7,7 +7,6 @@ last_modified_at:
 categories:
 - Caricature
 - Sketches
-- Klare Lijn — Ligne Claire
 - Character
 ---
 ![WIP SARS-COV-2 character sketch](/images/SARS-COV-2-character-sketch.jpg)
