@@ -5,7 +5,7 @@ description: Storyboarder's QR code
 date: '2020-10-30 04:24:48 +0100'
 last_modified_at:
 categories:
-- Software
+- Apps & Software
 ---
 ![Storyboarder's QR code](/images/storyboarder_attaque_electros_rough_01.jpg)
 
