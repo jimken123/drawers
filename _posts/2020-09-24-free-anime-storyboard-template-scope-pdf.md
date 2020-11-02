@@ -3,7 +3,7 @@ layout: post
 title: Free anime storyboard template 2.39:1 (scope) on A4 Vertical
 description: Free anime storyboard template 2.39:1 (scope) Avenir Book on A4 Vertical in PDF format
 date: '2020-09-24 12:24:48 +0100'
-last_modified_at: ''
+last_modified_at:
 categories:
 - Templates
 ---

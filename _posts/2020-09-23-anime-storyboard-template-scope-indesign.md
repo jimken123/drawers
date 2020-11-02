@@ -3,7 +3,7 @@ layout: post
 title: Anime storyboard template 2.39:1 (scope) Avenir Book on A4 Vertical
 description: Anime storyboard template 2.39:1 (scope) Avenir Book on A4 Vertical for Adobe InDesign
 date: '2020-09-23 19:24:48 +0100'
-last_modified_at: ''
+last_modified_at:
 categories:
 - Templates
 ---
