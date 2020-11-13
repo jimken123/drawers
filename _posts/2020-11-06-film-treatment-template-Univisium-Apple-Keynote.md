@@ -27,11 +27,6 @@ This template is in English, with body text in Avenir Light 10 points with 1.2 s
 This theme makes it easy and fast to put your film treatment and storyboard together in a clean presentation.
 
 
-
-
-
-
-
 ### Do you like this theme but need it for another film ratio?
 Get a similar theme for 2.39:1 films: [https://gum.co/scope-treatment](https://gum.co/scope-treatment)
 
