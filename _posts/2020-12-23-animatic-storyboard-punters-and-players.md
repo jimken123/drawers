@@ -9,7 +9,7 @@ categories:
 - Advertising
 - Animation
 ---
-![Carotte Bio](/images/Punters_n_Players_storyboard.gif)
+![Punters and players animatic storyboard](/images/Punters_n_Players_storyboard.gif)
 Here is another storyboard drawn real quick thanks to [Storyboarder](https://wonderunit.com/storyboarder/) by Wonder Unit. Thank you Charles Forman!
 
 Drawings: **[Film Storyboards](https://film-storyboards.com)**
