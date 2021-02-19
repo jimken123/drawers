@@ -2,7 +2,7 @@
 layout: post
 title: Storyboard template for Procreate
 description:  Free Procreate storyboard template for 2.39:1 (scope) films, ready to use.
-date: '2021-02-09 00:24:48 +0100'
+date: '2021-02-19 00:24:48 +0100'
 last_modified_at:
 categories:
 - Templates
