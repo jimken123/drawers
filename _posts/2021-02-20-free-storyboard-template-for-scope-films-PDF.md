@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Free storyboard template 
-description:  Free storyboard template for 2.39:1 (scope) films, ready to use.
+description:  Free storyboard template for 2.39:1 (scope) films, ready to print PDF file.
 date: '2021-02-20 00:24:48 +0100'
-last_modified_at:
+last_modified_at: 2021-02-21
 categories:
 - Templates
 ---
 <a href="https://gum.co/pdf_scope_A4" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_Free-PDF-storyboard-template_2.39x1_scope_Avenir-Light-10pt_A4-vertical-page_01.png"></a>
-<figcaption>The template overview, ready to use with Procreate.</figcaption>
+<figcaption>The template overview, ready to print.</figcaption>
 
 {% include gumroad-overlay.html id="pdf_scope_A4" %}
 
