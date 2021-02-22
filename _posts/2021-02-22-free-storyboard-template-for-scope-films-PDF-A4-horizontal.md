@@ -7,7 +7,7 @@ last_modified_at:
 categories:
 - Templates
 ---
-<a href="https://gum.co/pdf_scope_A4-horizontal" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_Free-PDF-storyboard-template_Scope_2.39-1_Avenir-Next_9pt_10_A4-landscape_01.png></a>
+<a href="https://gum.co/pdf_scope_A4-horizontal" class="no-underline pv2 grow db"><img class="w-100" src="/images/Free-PDF-storyboard-template_Scope_A4-landscape_01.png"></a>
 <figcaption>The template overview, ready to print.</figcaption>
 
 {% include gumroad-overlay.html id="pdf_scope_A4-horizontal" %}
