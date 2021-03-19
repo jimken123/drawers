@@ -7,7 +7,7 @@ last_modified_at:
 categories:
 - Templates
 ---
-<a href="https://gum.co/ghibli-storyboard-univisium-Procreate-Ens" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_anime-storyboard-template_2.00x1_A4_vertical_rule-of-thirds.png"></a>
+<a href="https://gum.co/ghibli-storyboard-univisium-Procreate-En" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_anime-storyboard-template_2.00x1_A4_vertical_rule-of-thirds.png"></a>
 <figcaption>The template overview, ready to print.</figcaption>
 
 {% include gumroad-overlay.html id="ghibli-storyboard-univisium-Procreate-En" %}
