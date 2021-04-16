@@ -3,12 +3,12 @@ layout: post
 title: Free Procreate Univisium anime storyboard template 
 description: Free Procreate Japanese anime storyboard template for 2.00:1 (Univisium) films, ready to use.
 date: '2021-03-19 16:24:48 +0100'
-last_modified_at:
+last_modified_at: 2021-04-16
 categories:
 - Templates
 ---
 <a href="https://gum.co/ghibli-storyboard-univisium-Procreate-Jp" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_Japanese_anime-storyboard-template-2x1_A4-vertical_overview.png"></a>
-<figcaption>The template overview, ready to print.</figcaption>
+<figcaption>The template overview, ready for drawing.</figcaption>
 
 {% include gumroad-overlay.html id="ghibli-storyboard-univisium-Procreate-Jp" %}
 

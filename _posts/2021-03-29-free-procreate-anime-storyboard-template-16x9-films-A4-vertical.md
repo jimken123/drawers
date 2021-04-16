@@ -3,12 +3,12 @@ layout: post
 title: Free Procreate 16:9 anime storyboard template 
 description: FFree Procreate Anime Storyboard Template for 16:9 aspect ratio on A4 vertical.
 date: '2021-03-29 09:24:48 +0100'
-last_modified_at:
+last_modified_at: 2021-04-16
 categories:
 - Templates
 ---
 <a href="https://gum.co/ghibli-storyboard-16x9-Procreate-En" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_anime-storyboard-template_16x9_A4_vertical_rule-of-thirds.PNG"></a>
-<figcaption>The template overview, ready to print.</figcaption>
+<figcaption>The template overview, ready for storyboarding.</figcaption>
 
 {% include gumroad-overlay.html id="ghibli-storyboard-16x9-Procreate-En" %}
 

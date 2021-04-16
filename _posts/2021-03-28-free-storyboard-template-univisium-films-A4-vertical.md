@@ -3,12 +3,12 @@ layout: post
 title: Free storyboard template (scope) 6 frames
 description: Free PDF Storyboard Template for 2.39:1 aspect ratio (scope) 6 frames on DIN A4 horizontal.
 date: '2021-03-28 07:24:48 +0100'
-last_modified_at:
+last_modified_at: 2021-04-16
 categories:
 - Templates
 ---
 <a href="https://gum.co/pdf_scope_A4-6-frames-hrztl" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_Free_PDF_storyboard-template_2.39x1_scope_6-frames-Avenir-Next_10pt_DIN_A4-landscape_interface_reader.png"></a>
-<figcaption>The template overview in Acrobat Reader, ready to print.</figcaption>
+<figcaption>The template overview in Acrobat Reader, ready for storyboards.</figcaption>
 
 {% include gumroad-overlay.html id="pdf_scope_A4-6-frames-hrztl" %}
 
