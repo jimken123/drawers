@@ -8,7 +8,7 @@ categories:
 - Storyboards
 - Advertising
 ---
-![Get It Done — Emory Healthcare, storyboard frame](/images/Emory_Get_It_Done_stb_changes_017 NEW.jpg)
+![Get It Done — Emory Healthcare, storyboard frame](/images/Emory_Get_It_Done_stb_changes_017-NEW.jpg)
 
 Director: **Lance Doty**
 Production: **Homestead**
