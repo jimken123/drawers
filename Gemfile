@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling! Keeping this uncommented for now.
 # Because this repo runs on an older Jekyll version whitelisted by github-pages
-gem "jekyll", "~> 3.8.7"
+gem "jekyll", "~> 3.9.0"
 
 # This is the theme for this Jekyll sites. You may change this to anything you like.
 #gem "jekyll-athena"
@@ -25,3 +25,5 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'github-pages'
 end
+
+gem "webrick", "~> 1.7"
