@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Piove
+title: Gaz Naturel
 description: Animatic storyboard
-date: '2021-08-09 10:12:24 +0100'
-vimeo-id: 585383459
+date: '2021-10-11 10:12:24 +0100'
+vimeo-id: 629396587
 categories:
 - Animation
 - Storyboards
 ---
 
-Director: **Paolo Strippoli**
-Post production: **[Benuts](https://benuts.be)**
+Director: **Helvetica**
+Animation by Lovo Films.
+Directed by Helvetica, produced by **[Lovo Films](https://benuts.be)**.
