@@ -7,6 +7,7 @@ vimeo-id: 629396587
 categories:
 - Animation
 - Storyboards
+- Advertising
 ---
 
 Director: **Helvetica**
