@@ -7,7 +7,7 @@ last_modified_at:
 categories:
 - Templates
 ---
-<a href="https://storyboards.gumroad.com/l/scope_A4_InDsgn_hrztll" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_Film_Storyboard-template_Scope_sample.png"></a>
+<a href="https://storyboards.gumroad.com/l/scope_A4_InDsgn_hrztl" class="no-underline pv2 grow db"><img class="w-100" src="/images/Film-Storyboards.com_Film_Storyboard-template_Scope_sample.png"></a>
 
 {% include gumroad-overlay.html id="scope_A4_InDsgn_hrztl" %}
 
