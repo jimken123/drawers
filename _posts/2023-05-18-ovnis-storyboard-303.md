@@ -14,5 +14,5 @@ categories:
 
 OVNIs, storyboard pour la saison 2, épisode 3. Scène #303B.
 
-Director: **AntonyCordier**
+Réalisateur: **AntonyCordier**
 Post production: **[Benuts](https://benuts.be)**
