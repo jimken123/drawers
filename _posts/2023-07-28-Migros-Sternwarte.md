@@ -45,6 +45,9 @@ categories:
 
 
 *Migros Sternwarte* storyboard 
-Director: Sean Fee
-Production: Rosas & Co Films AG
-Client: Migros
+
+Director: **Sean Fee**
+
+Production: **Rosas & Co Films AG**
+
+Client: **Migros**
