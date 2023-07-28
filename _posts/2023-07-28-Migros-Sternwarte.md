@@ -5,7 +5,7 @@ description: Migros Sternwarte
 date: '2023-07-28 08:24:48 +0100'
 last_modified_at:
 categories:
-- Storyboard
+- Storyboards
 - Advertising
 ---
 
