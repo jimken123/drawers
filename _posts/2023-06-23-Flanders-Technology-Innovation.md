@@ -7,6 +7,7 @@ last_modified_at: 2023-07-28
 categories:
 - Sketches
 - Storyboards
+- Advertising
 ---
 
 ![FTI storyboard](/images/FTI_storyboard_Cleanup_01.png)
