@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About
+last_modified_at: 2024-07-26
 permalink: /about/
 ---
 
-*[Film Storyboards](https://film-storyboards.com "Film Storyboards Portfolio")* provides with previz, production design, and visual storytelling services for film, animation, <strike> advertising</strike>, and cross-media projects.
+*[Film Storyboards](https://film-storyboards.com "Film Storyboards Portfolio")* provides with previz, production design, and visual storytelling services for film, animation, advertising, and cross-media projects.
 
 <p>This blog shows preparatory drawings, rough sketches, storyboards and concept illustrations accumulated in the drawers over the years.</p>
 
