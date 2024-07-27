@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Magar Loop
-description: Magar 1st loop
-date: '2024-07-27 09:24:48 +0100'
+title: Keyhole animation Loop
+description: Keyhole animation Loop
+date: '2024-07-26 09:24:48 +0100'
 last_modified_at:
 categories:
-- Storyboards
 - Animation
+- Graphic Design
 ---
 
-![Magar first loop](/images/Magar_1st_loop.gif)
-
-Magar 1st loop test
+![Keyhole animation loop](/images/MyUNBOX_Padlock_keyhole_animation.gif)
