@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Aramisauto
-description: Aramisauto TVC storyboard frame
+description: Aramisauto TVC storyboard
 date: '2023-12-13 14:42:48 +0100'
-last_modified_at:
+last_modified_at: 2024-08-22
 categories:
 - Storyboards
 - Advertising
