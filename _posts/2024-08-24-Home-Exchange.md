@@ -64,7 +64,7 @@ categories:
 ![Storyboard HomeExchange, frame 24 + logo](/images/HomeExchange_storyboard_0024_logo.png)
 
 
-*HomeExchange / Opération Lambert, storyboard* Storyboard 
+*HomeExchange / Opération Lambert* Storyboard 
 
 Director: **Nico Galoux**
 
