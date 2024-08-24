@@ -70,4 +70,4 @@ Director: **Nico Galoux**
 
 Agency: **Steve Agency**
 
-Client: **HomeExchangen**
+Client: **HomeExchange**
