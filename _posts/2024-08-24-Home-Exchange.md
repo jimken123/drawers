@@ -68,6 +68,6 @@ categories:
 
 Director: **Nico Galoux**
 
-Agency: **Steve**
+Agency: **Steve Agency**
 
 Client: **HomeExchangen**
