@@ -3,7 +3,7 @@ layout: post
 title: PostFinance
 description: Storyboard for PostFinance TVC 
 date: '2024-08-23 10:42:48 +0100'
-last_modified_at:
+last_modified_at: 2024-08-24
 categories:
 - Storyboards
 - Advertising
@@ -19,6 +19,6 @@ categories:
 
 Director: **Manu Coeman**
 
-Production: **oRsas & Co Films AG**
+Production: **Rosas & Co Films AG**
 
 Client: **PostFinance**
