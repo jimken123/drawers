@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-last_modified_at: 2024-07-26
+last_modified_at: 2024-09-05
 permalink: /about/
 ---
 
@@ -19,7 +19,7 @@ See [Film Storyboards portfolio](https://film-storyboards.com "Film Storyboards 
 
 Credits: [IMDb](https://www.imdb.com/name/nm2326905/ "Yves Capelle IMDb credits")
 
-Twitter: [@FilmStoryboards](https://twitter.com/FilmStoryboards "Film Storyboards on Twitter")
+Twitter/X: [@FilmStoryboards](https://twitter.com/FilmStoryboards "Film Storyboards on Twitter/X")
 
 Facebook: [fb.me/filmstoryboards](https://fb.me/filmstoryboards "Film Storyboards on Facebook")
 
