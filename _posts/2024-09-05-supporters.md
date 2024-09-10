@@ -3,10 +3,9 @@ layout: post
 title: Suporters
 description: Supporters storyboard
 date: '2024-09-05 06:42:48 +0100'
-last_modified_at:
+last_modified_at: 2024-09-10
 vimeo-id: 
 categories:
-- Animation
 - Storyboards
 - Advertising
 ---
