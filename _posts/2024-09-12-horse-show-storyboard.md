@@ -5,7 +5,7 @@ description: Horse show storyboard
 date: '2024-09-12 06:42:48 +0100'
 last_modified_at:
 categories:
-- Sketches 2024-09-14
+- Sketches
 - Storyboards
 ---
 
