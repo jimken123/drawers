@@ -11,7 +11,7 @@ categories:
 ---
 
 
-![Storyboard, Hermès Beauté, Tutoriel Yeux](/images/supply-screenshot.png)
+![Supply, a Jekyll theme for Gumroad creators(/images/supply-screenshot.png)
 
 
 ## Build a Jekyll theme for e-commerce with Gumroad & Supply
