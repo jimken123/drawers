@@ -3,7 +3,7 @@ layout: post
 title: Supply, a Jekyll theme for Gumroad creators
 description: Supply is an e-commerce template for Jekyll + Gumroad, designed with Tachyons CSS by alternatyves.
 date: '2024-09-25 06:42:48 +0100'
-last_modified_at:
+last_modified_at: 2024-09-26
 vimeo-id: 
 categories:
 - Apps & Software
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-![Supply, a Jekyll theme for Gumroad creators(/images/supply-screenshot.png)
+![Supply, a Jekyll theme for Gumroad creators](/images/supply-screenshot.png)
 
 
 ## Build a Jekyll theme for e-commerce with Gumroad & Supply
