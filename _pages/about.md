@@ -9,9 +9,9 @@ permalink: /about/
 
 <p>foo foo foo</p>
 
-You can browse shoot poison arrows.
+You can shoot poison arrows.
 
-<p>All works by <i>Yves Capelle</i> / <a href="https://alternatyves.com" title="alternatyves outc.">alternatyves outc.</a> / <a href="https://film-storyboards.com" title="Film Storyboards">Film Storyboards</a>, unless stated otherwise.</p>
+sdgdsgs
 
 [Read more]({{ site.url }}/storyboards/2013/03/15/film-storyboards.html "Read more about Film Storyboards Drawers").
 
