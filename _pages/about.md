@@ -7,7 +7,7 @@ permalink: /about/
 
 *[Film Storyboards](https://film-storyboards.com "Film Storyboards Portfolio")* provides with previz, production design, and visual storytelling services for film, animation, advertising, and cross-media projects.
 
-<p>This blog serves as an archive of preparatory drawings, rough sketches, storyboards, and concept illustrations that have accumulated in the drawers over the years.</p>
+<p>foo foo foo</p>
 
 You can browse this blog by tags using the right-hand side menu, and go from one post to another using your keyboard arrows.
 
