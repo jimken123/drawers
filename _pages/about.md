@@ -37,7 +37,7 @@ You may also want to check [Templates Supply](https://templates.supply) for more
 
 <h2>contact:</h2>
 
-<p>Call +32  475 418 327 for commissions, illustrations and storyboarding  inquiries or send an email to <a href="https://film-storyboards.com/contact" title="Contact - Film Storyboards / Production Design">Yves Capelle</a>.</p>
+<p>Call +32   for commissions, illustrations and storyboarding  inquiries or send an email to <a href="https://film-storyboards.com/contact" title="Contact - Film Storyboards / Production Design">Yves Capelle</a>.</p>
 
 <hr>
 
