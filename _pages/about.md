@@ -13,8 +13,6 @@ You can shoot poison arrows.
 
 sdgdsgs
 
-[Read more]({{ site.url }}/storyboards/2013/03/15/film-storyboards.html "Read more about Film Storyboards Drawers").
-
 See [Film Storyboards portfolio](https://film-storyboards.com "Film Storyboards / Production Design") for more or [Scénarimages](https://film-storyboards.fr "Film Storyboards / Scénarimage") if you *préfère en français*.
 
 Credits: [IMDb](https://www.imdb.com/name/nm2326905/ "Yves Capelle IMDb credits")
